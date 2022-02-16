@@ -1,6 +1,6 @@
 ## Work Day Scheduler
 
-This is a simply daily planner that allows users to save their schedule in time blocks which are saved to local storage.
+This is a simple daily planner that allows users to save their schedule in time blocks which are saved to local storage.
 
 ## Tecnologies used
 
